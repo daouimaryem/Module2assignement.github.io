@@ -4,4 +4,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://daouimaryem.github.io/module2assignement.github.io/)
+# To see the output [CLICK HERE](https://daouimaryem.github.io/module2assignement.github/)
